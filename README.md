@@ -20,6 +20,7 @@ Workforce participation rates.
 5. Advanced Analysis
 Correlation Analysis: Find correlations between different variables.
 Group By Analysis: Analyze data by grouping based on specific criteria.
+
 Results
 
 The results section of the script provides insights into:
